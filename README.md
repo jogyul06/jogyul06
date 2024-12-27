@@ -1,5 +1,7 @@
 ## 조은규
 
+2006.04.17
+
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
