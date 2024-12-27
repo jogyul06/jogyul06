@@ -19,15 +19,11 @@ C#, JAVA, Html, Jsp, Css
   <img src="https://img.shields.io/badge/CSS-5882FA?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <h3 align="left">Studying📚</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <h3 align="left">Tools🛠</h3>
 <div align="left">
