@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=조은규의%20깃허브&fontSize=50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFAC49&height=150&section=header&text=조은규의%20깃허브&fontSize=50%"/>
 
 ## 조은규
 
