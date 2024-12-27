@@ -1,4 +1,4 @@
-##조은규
+###조은규
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
