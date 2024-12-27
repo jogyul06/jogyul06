@@ -1,6 +1,7 @@
 ## 조은규
 
 2006.04.17
+Software developer
 
 <!--내용 부분-->
 <h3 align="left">Tech Stack✨</h3>
