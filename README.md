@@ -3,6 +3,8 @@
 2006.04.17
 <br>
 Software developer
+<br>
+C#, JAVA, Html, Jsp, Css
 
 <!--내용 부분-->
 <h3 align="left">Tech Stack✨</h3>
