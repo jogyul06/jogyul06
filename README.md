@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-DB7093?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/C#-1daabb.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/C# -1daabb.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge" />&nbsp
 </div>
 
