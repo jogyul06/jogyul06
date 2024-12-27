@@ -1,10 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=조은규의%20깃허브&fontSize=50%"/>
+
 ## 조은규
 
 2006.04.17
 <br>
 Software developer
-<br>
-C#, JAVA, Html, Jsp, Css
 
 <!--내용 부분-->
 <h3 align="left">Tech Stack✨</h3>
