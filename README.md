@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=JOGYUL06&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=조은규의 깃허브&fontSize=50" />
 </div>
 
 <!--내용 부분-->
