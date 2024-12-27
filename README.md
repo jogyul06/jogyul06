@@ -1,7 +1,4 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=조은규&fontSize=50" />
-</div>
+##조은규
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
