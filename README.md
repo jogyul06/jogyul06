@@ -28,9 +28,6 @@ Software developer
 <h3 align="left">Tools🛠</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
-<div align="left">
   <img src="https://img.shields.io/badge/VSCode-0B2161.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
